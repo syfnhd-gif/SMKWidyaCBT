@@ -16,7 +16,7 @@ jobs:
       uses: actions/setup-java@v4
       with:
         distribution: 'temurin'
-        java-version: '11'
+        java-version: '17'    # GANTI DARI 11 KE 17
         
     - name: Cache dependencies
       uses: actions/cache@v3
