@@ -1,6 +1,6 @@
 {
   "name": "smk-widya-cbt",
-  "version": "1.0.0",
+  "version": "1.0.0", 
   "private": true,
   "scripts": {
     "start": "react-native start",
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.72.0"
+    "react-native": "0.71.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
